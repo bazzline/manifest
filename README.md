@@ -16,6 +16,10 @@ You have to:
 * our code is licensed under [gpl 3](https://www.gnu.org/licenses/gpl.html) or [lgpl 3](https://www.gnu.org/licenses/lgpl.html)
 * for [php](https://www.php.net), we are following the [php-fig](http://www.php-fig.org/)
 
+You should be able to deal and agree or accept:
+* [ten commandments of egoles programming](http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+* [the agile manifesto](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto)
+
 Maxim:
 * information and knowledge have to be free for all
 * we are all light and love

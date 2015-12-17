@@ -36,6 +36,9 @@ It is forbidden to:
 * a tag description has to follow the following rules, two words, both starting with the same character
 * version 1.0.0 can only be released if the main part of the code is covered with unit tests
 * branches are only needed, if a complicated feature is implemented (taking more than three days)
+* license
+    * use at least the [LGPL-V3](https://www.gnu.org/copyleft/lesser.html) for components or modules
+    * use at least the [GPL-V3](https://www.gnu.org/licenses/gpl.html) for stand alone applications
 
 # Based on:
 

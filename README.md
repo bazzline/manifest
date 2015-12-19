@@ -40,6 +40,18 @@ It is forbidden to:
     * use at least the [LGPL-V3](https://www.gnu.org/copyleft/lesser.html) for components or modules
     * use at least the [GPL-V3](https://www.gnu.org/licenses/gpl.html) for stand alone applications
 
+## Rules, Patterns and Core Concepts
+
+* [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+* [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+* [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [80 / 20](https://en.wikipedia.org/wiki/Pareto_principle)
+* [magic number seven](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
+* [do one thing and do it well](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well)
+* [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
+
 # Based on:
 
 * http://ccc.de/de/hackerethik

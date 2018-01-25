@@ -1,5 +1,6 @@
 # General
 
+* people first
 * this is not a grassroots democracy
 * but the [leader](https://github.com/stevleibelt) is trying to use the [non violent communication](http://www.cnvc.org/) approach
 
